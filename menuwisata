@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Jelajah Wisata Di Indonesia</title>
+    </head>
+    <body>
+        <td>
+        <img src="https://www.yukbanyuwangi.co.id/wp-content/uploads/2023/12/DJI_0126_1200.jpg" width="100%" height="450">
+        </td>
+        <td align="center" colspan="1" height="90%">
+            <table border="0" width="100%" align="center">
+                <tr>
+                    <th bgcolor="#OOOOFF" align="center" width="33%"><font color="white"> Beranda </th>
+                    <th bgcolor="#OOOOFF" align="center" width="33%"><font color="white"> Menu Wisata</th>
+                    <th bgcolor="OOOOFF" align="center" width="33%"><font color="white"> Website Pariwisata</th>
+                </tr>
+            </table>
+                <h1 align="center"> 🗺️ Menu Wisata</h1>
+                <p align="center">Berikut adalah objek Wisata menarik di Jawa Timur</p>
+        <tr>
+            <table border="1" cellpading="18" cellspacing="8" width="100" align="center">
+            <td align="center">
+                <img src="https://content.skyscnr.com/m/4f79e09f5dd4a4b8/original/GettyImages-163729728.jpg?resize=1224%3Aauto"  alt="1" width="500" height="350">
+                <h3 align="center"> Gunung Bromo </h3>
+                <p> Gunung Bromo merupakan salah satu tenpat </p>
+                <p> wisata terkenal yang berada di Jawa Timur. </p>
+            </td>
+            <td align="center">
+                <img src="https://jadiberangkat.id/wp-content/uploads/2024/12/kawah-ijen-banyuwangi-2.webp" alt="1" width="500" height="350">
+                <h3 align="center"> Kawah Ijen </h3>
+                <p> Kawah Ijen merupakan salah satu tempat </p>
+                <p> wisata terkenal yang berada di Jawa Timur. </p>
+            </td>
+            <td align="center">
+                <img src="https://backpackerjakarta.com/wp-content/uploads/2017/06/Coban-Rondo-Malang.jpg" alt="1" width="500" height="350">
+                <h3 align="center"> Air Terjun Coban Rondo satu tempat </h3>
+                <p> Air Terjun Coban Rondo merupakan salah </p>
+                <p> wisata terkenal yang berada di Jawa Timur </p>
+            </td>
+        </tr>
+    </table>
+    </body>
+</html>
